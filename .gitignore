@@ -5,3 +5,5 @@ db_config.*
 credentials.json
 *coverage
 /tests
+env_Epic_Events/
+Learning-Python-SQL-Backend-CRM.code-workspace
